@@ -13,6 +13,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
+//login tests are maintained here
 
 public class LoginTest{
     WebDriver driver;
